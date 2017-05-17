@@ -1,0 +1,6 @@
+framework module Pods_FOCUS_ProjectTests {
+  umbrella header "Pods-FOCUS_ProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
